@@ -3,6 +3,8 @@ Theme Name:     Teknologeek
 Description:    Theme for Teknologeek
 Author:         BWI&BMO
 Template:       Garvan
-
-(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+#masthead {
+    background: #100f0c url(http://images6.alphacoders.com/456/456498.jpg) cover;
+}
